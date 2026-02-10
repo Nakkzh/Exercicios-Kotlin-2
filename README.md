@@ -1,4 +1,4 @@
-# Lista de Exercícios – FPOO (SENAI)
+# Lista de Exercícios
 
 ---
 
