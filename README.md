@@ -7,6 +7,7 @@
 
 **Resposta (Código):**  
 
+<img width="628" height="212" alt="image" src="https://github.com/user-attachments/assets/b9b3ae8a-8c0d-43cb-9231-2fdc342c8379" />
 
 ---
 
@@ -15,6 +16,7 @@
 
 **Resposta (Código):**  
 
+<img width="521" height="212" alt="{528D7945-8335-46FE-BE76-2AE4C989EF28}" src="https://github.com/user-attachments/assets/f151265f-d8dc-4bb2-8679-d95664457c26" />
 
 ---
 
@@ -23,6 +25,7 @@
 
 **Resposta (Código):**  
 
+<img width="762" height="425" alt="{2C9860A3-4A30-4EB8-B2BB-6A124287330C}" src="https://github.com/user-attachments/assets/aa661854-065f-47a7-8287-450985f23b23" />
 
 ---
 
@@ -31,6 +34,7 @@
 
 **Resposta (Código):**  
 
+<img width="593" height="213" alt="{1899FFF4-542C-47AA-92D0-38E02CFAC810}" src="https://github.com/user-attachments/assets/c60efd18-2619-4103-a0b7-38025c955ec9" />
 
 ---
 
@@ -39,6 +43,7 @@
 
 **Resposta (Código):**  
 
+<img width="538" height="210" alt="{A0E86CD6-ADE1-4D75-9997-8C3943314560}" src="https://github.com/user-attachments/assets/277439dc-0a8f-448b-aca5-bca15bc07365" />
 
 ---
 
@@ -47,6 +52,7 @@
 
 **Resposta (Código):**  
 
+<img width="461" height="495" alt="image" src="https://github.com/user-attachments/assets/aa05d0a0-7b10-4b44-8ca3-5ed45c8bbf2d" />
 
 ---
 
@@ -55,6 +61,7 @@
 
 **Resposta (Código):**  
 
+<img width="525" height="208" alt="{B22DA9DE-8187-42A7-8270-0B98B253A254}" src="https://github.com/user-attachments/assets/8b4d30eb-d6a5-41a0-a212-60885679fafa" />
 
 ---
 
@@ -63,6 +70,7 @@
 
 **Resposta (Código):**  
 
+<img width="493" height="269" alt="{67732A17-F924-4A4D-B408-F28FF75BDC5F}" src="https://github.com/user-attachments/assets/7cff9cf5-5cf0-41de-9274-4dbf435252dc" />
 
 ---
 
@@ -71,6 +79,7 @@
 
 **Resposta (Código):**  
 
+<img width="738" height="213" alt="{AF3ED680-BE33-4590-A6E7-7E1AC26C5431}" src="https://github.com/user-attachments/assets/f958a638-4d33-4f43-b2e6-319bb34510b0" />
 
 ---
 
@@ -79,6 +88,7 @@
 
 **Resposta (Código):**  
 
+<img width="627" height="385" alt="{62E0AA5A-4A96-4259-A14F-A170A57A1FC7}" src="https://github.com/user-attachments/assets/579d90f1-fcc3-4ecf-8721-8683502b8297" />
 
 ---
 
@@ -87,6 +97,7 @@
 
 **Resposta (Código):**  
 
+<img width="381" height="383" alt="{CDD0B318-A91D-4017-A09E-4C7603928ECC}" src="https://github.com/user-attachments/assets/920aaece-b32a-4574-aa85-d175c8990b63" />
 
 ---
 
