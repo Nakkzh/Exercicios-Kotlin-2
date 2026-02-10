@@ -106,6 +106,7 @@
 
 **Resposta (Código):**  
 
+<img width="561" height="213" alt="{C20EE214-B63D-4B5A-B812-EB395C843378}" src="https://github.com/user-attachments/assets/9e3d583d-ad9d-443c-a5cd-837a7c02e6bb" />
 
 ---
 
@@ -114,6 +115,7 @@
 
 **Resposta (Código):**  
 
+<img width="647" height="572" alt="{B8C6B13F-5E85-4226-935D-3428EE214033}" src="https://github.com/user-attachments/assets/9a802b0c-5efc-4489-b5f3-30bbd0483819" />
 
 ---
 
@@ -122,6 +124,7 @@
 
 **Resposta (Código):**  
 
+<img width="450" height="187" alt="image" src="https://github.com/user-attachments/assets/bea513c8-c907-4a8e-98bc-40cd1e66c9a9" />
 
 ---
 
@@ -130,6 +133,7 @@
 
 **Resposta (Código):**  
 
+<img width="478" height="273" alt="{477E7CF1-84CE-4ECB-A4B8-B87777DEF70F}" src="https://github.com/user-attachments/assets/a8069e28-98db-45a1-87df-ef78d172389f" />
 
 ---
 
@@ -138,6 +142,7 @@
 
 **Resposta (Código):**  
 
+<img width="860" height="266" alt="{DC186A56-FD28-4E11-ADB1-085927DFA396}" src="https://github.com/user-attachments/assets/06e951bb-1019-4b0f-a08c-53af104b12be" />
 
 ---
 
@@ -146,6 +151,7 @@
 
 **Resposta (Código):**  
 
+<img width="712" height="271" alt="{AAE6BDB9-BCEC-49CE-992C-BB87F17E6FE9}" src="https://github.com/user-attachments/assets/c5f2e3c3-1914-43f8-996c-a4a12e703203" />
 
 ---
 
@@ -154,6 +160,7 @@
 
 **Resposta (Código):**  
 
+<img width="371" height="365" alt="image" src="https://github.com/user-attachments/assets/a1b958a1-529c-4ad3-aeba-9dcbc765a706" />
 
 ---
 
@@ -162,6 +169,7 @@
 
 **Resposta (Código):**  
 
+<img width="599" height="278" alt="{E6B1F372-0BC6-44D5-A481-EEFDC477D431}" src="https://github.com/user-attachments/assets/6c60d24c-4785-44bb-8f4e-43b417dd99e7" />
 
 ---
 
@@ -170,6 +178,7 @@
 
 **Resposta (Código):**  
 
+<img width="501" height="229" alt="image" src="https://github.com/user-attachments/assets/f67aa99d-63d8-4e33-9337-43d7d3502256" />
 
 ---
 
@@ -178,6 +187,7 @@
 
 **Resposta (Código):**  
 
+<img width="438" height="158" alt="{86F3994E-B1B8-41E6-8207-91321035741A}" src="https://github.com/user-attachments/assets/fe5ba765-bffa-4afb-a0bf-2a6b2442edcd" />
 
 ---
 
@@ -186,6 +196,7 @@
 
 **Resposta (Código):**  
 
+<img width="508" height="288" alt="{6081DE02-8772-406A-844D-5A3B346C1A7E}" src="https://github.com/user-attachments/assets/fe53274a-28dd-4262-9e0d-6e5a5653096a" />
 
 ---
 
@@ -194,6 +205,7 @@
 
 **Resposta (Código):**  
 
+<img width="762" height="425" alt="{2C9860A3-4A30-4EB8-B2BB-6A124287330C}" src="https://github.com/user-attachments/assets/aa661854-065f-47a7-8287-450985f23b23" />
 
 ---
 
@@ -202,6 +214,7 @@
 
 **Resposta (Código):**  
 
+<img width="506" height="213" alt="{40706422-5E99-45E2-9DB7-B2FA80DBDBCB}" src="https://github.com/user-attachments/assets/33b0ed6c-1654-4d56-a911-813465096771" />
 
 ---
 
@@ -209,3 +222,5 @@
 **Enunciado:** Leia um número inteiro e apresente o seu sucessor e antecessor.
 
 **Resposta (Código):**  
+
+<img width="512" height="183" alt="{1ED3F4FF-7EAF-44B9-8E9A-838D6EE4B618}" src="https://github.com/user-attachments/assets/785f3201-71f7-46a1-9e51-34fdda49eb77" />
