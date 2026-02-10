@@ -187,7 +187,7 @@
 
 **Resposta (Código):**  
 
-<img width="438" height="158" alt="{86F3994E-B1B8-41E6-8207-91321035741A}" src="https://github.com/user-attachments/assets/fe5ba765-bffa-4afb-a0bf-2a6b2442edcd" />
+<img width="564" height="220" alt="image" src="https://github.com/user-attachments/assets/f02f3daf-f01a-414c-99b6-edb775b0805a" />
 
 ---
 
